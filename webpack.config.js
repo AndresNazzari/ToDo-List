@@ -40,7 +40,7 @@ module.exports = {
 	plugins: [
 		new HtmlWebpack({
 			template: "./src/index.html",
-			filename: "[name].html",
+			filename: "index.html",
 			//[name] le digo que tome el mismo nombre que el archivo de base,
 			//[fullhash] pone un hash unico que cambia cada vez que buildeo con modificaciones
 		}),
