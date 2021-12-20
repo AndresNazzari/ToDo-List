@@ -1,8 +1,8 @@
-# Webpack Starter
+# ToDo List
 
-Proyecto inicial para comenzar un Proyecto utilizando Webpack
+Aplicacion ToDo list con Js, Local Storage, Webpack
 
-## Notas:
+### Notas:
 
 Para reconstruir node_modeules:
 
